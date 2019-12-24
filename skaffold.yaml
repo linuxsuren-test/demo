@@ -7,7 +7,7 @@ build:
   artifacts:
   - imageName: changeme
     workspace: .
-    docker: {}
+    docker: {}sdd
   local: {}
 deploy:
   kubectl:
